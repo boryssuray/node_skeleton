@@ -1,0 +1,17 @@
+# IDE-config
+.idea/
+
+# vendor packages
+node_modules
+
+# compiled files
+dist
+
+# env
+/.env
+
+# var
+/var/*
+
+# not ignore
+!.gitkeep
